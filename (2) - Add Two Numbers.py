@@ -1,9 +1,8 @@
-# Definition for singly-linked list.
+# 72 ms	    14.4 MB
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
-
 
 def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
     temp = ListNode(0)
@@ -23,4 +22,3 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
     if carry:
         result.next = ListNode(carry)
     return temp.next
-
