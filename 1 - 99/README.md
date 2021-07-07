@@ -6,3 +6,4 @@
 - (5) [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) 92.20 %
 - (6) [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) 98.96 %
 - (7) [Reverse Integer](https://leetcode.com/problems/reverse-integer/) 89.17 %
+- (20) [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 85.31 %
