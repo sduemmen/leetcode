@@ -7,3 +7,4 @@
 - (6) [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) 98.96 %
 - (7) [Reverse Integer](https://leetcode.com/problems/reverse-integer/) 89.17 %
 - (20) [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 85.31 %
+- (22) [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) 27.20 %
