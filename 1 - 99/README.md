@@ -8,3 +8,4 @@
 - (7) [Reverse Integer](https://leetcode.com/problems/reverse-integer/) 89.17 %
 - (20) [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 85.31 %
 - (22) [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) 27.20 %
+- (94) [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) 95.60 %
