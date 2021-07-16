@@ -6,6 +6,9 @@
 - (5) [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) 92.20 %
 - (6) [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) 98.96 %
 - (7) [Reverse Integer](https://leetcode.com/problems/reverse-integer/) 89.17 %
+- (9) [Palindrome Number](https://leetcode.com/problems/palindrome-number/) 69.43 %
+- (11) [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) 93.18 %
+- (14) [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) 59.92 %
 - (20) [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 85.31 %
 - (22) [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) 27.20 %
 - (94) [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) 95.60 %
