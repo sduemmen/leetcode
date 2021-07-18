@@ -10,5 +10,7 @@
 - (11) [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) 93.18 %
 - (14) [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) 59.92 %
 - (20) [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 85.31 %
+- (21) [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) 78.38 %
 - (22) [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) 27.20 %
+- (27) [Remove Element](https://leetcode.com/problems/remove-element/) 16.86 %
 - (94) [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) 95.60 %
